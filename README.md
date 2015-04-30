@@ -1,1 +1,3 @@
 # trading-bot
+
+In the beginning....
